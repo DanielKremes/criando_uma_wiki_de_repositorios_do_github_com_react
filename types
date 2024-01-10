@@ -1,0 +1,7 @@
+imscg: import { createGlobalStyle } from 'styled-components';
+usf: const [, set] = useState();
+cpf: const name = (e) => {
+   
+};
+
+imsc: import styled from 'styled-components';
